@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SIMS - Student Information Management System
 
 A school portal built with React, TypeScript, Vite and Tailwind CSS on a Supabase backend (Auth, PostgreSQL, Row Level Security).
@@ -176,3 +177,6 @@ src/pages/             auth/, staff/ (shared by Administrator and Admin), studen
 - No passing mark is configured, so grades are shown as percentages without pass/fail colouring.
 - Notifications are in-app only (no email or SMS).
 - Student identity is verified by student number, birth date and the school's email on record, plus email verification.
+=======
+# sims_web-app
+>>>>>>> 6de5c479c6f34c2843991c1e5f8eb079d591ccdb
